@@ -1,0 +1,5 @@
+{
+  "name": "Healthy Bites AI",
+  "description": "Your personal AI nutritionist and chef. Generate healthy recipes based on your fridge contents and analyze nutritional values instantly.",
+  "requestFramePermissions": []
+}
